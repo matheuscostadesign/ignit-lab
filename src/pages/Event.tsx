@@ -11,5 +11,5 @@ export function Event() {
         <Sidebar />
       </main>
     </div>
-  )
+  );
 }
